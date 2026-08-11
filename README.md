@@ -15,5 +15,5 @@ This application is COMPLETELY HARMLESS joke software developed for educational,
 * **Real-time Bytebeat:** Generates retro 8-bit saw sounds directly from mathematical data (`t & t >> 8`).
 
 ## (CLOSED)
-I lost the code while updating it and now canvas.exe is crashing so canvas.exe wil be remmade from zero
+I lost the code while updating it and now canvas.exe is crashing so canvas.exe wil be remade from zero
 I removed Canvas.apk when i'm done making ill add it back.
