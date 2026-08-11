@@ -1,4 +1,4 @@
-# Canvas.exe - Android GDI & Bytebeat Simulator
+I lost the # Canvas.exe - Android GDI & Bytebeat Simulator
 
 A harmless, educational 2-dimensional graphics rendering project built for Android using local Canvas pipelines and real-time AudioTrack procedural synthesis.
 
@@ -13,3 +13,7 @@ This application is COMPLETELY HARMLESS joke software developed for educational,
 * **Z-Index Layering:** Smooth rendering with particles flying over complex grid matrices.
 * **Kinetic Vector Triangles:** Spin-stabilized nodes leaving colorful trail attenuation.
 * **Real-time Bytebeat:** Generates retro 8-bit saw sounds directly from mathematical data (`t & t >> 8`).
+
+## (CLOSED)
+I lost the code while updating it and now canvas.exe is crashing so canvas.exe wil be remmade from zero
+I removed Canvas.apk when i'm done making ill add it back.
